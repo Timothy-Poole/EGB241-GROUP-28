@@ -1,5 +1,3 @@
-# EGB241-GROUP-28-REPORT
-
 Date: 31st May 2024
 
 Contributors (alphabetical)
@@ -7,12 +5,12 @@ Contributors (alphabetical)
 2. Timothy Poole = (git name)
 3. Brendan Wallis = (git name)
 
-## Introduction
+# Introduction
 
-## Design & Implementation
+# Design & Implementation
 
-## Results
+# Results
 
-## References
+# References
 
 include group charter in source control
